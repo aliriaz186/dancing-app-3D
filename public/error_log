@@ -1,0 +1,2 @@
+[11-Sep-2019 17:22:26 UTC] PHP Warning:  require(/home/em2z5atsdsmz/public_html/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/em2z5atsdsmz/public_html/bootstrap/autoload.php on line 17
+[11-Sep-2019 17:22:26 UTC] PHP Fatal error:  require(): Failed opening required '/home/em2z5atsdsmz/public_html/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/em2z5atsdsmz/public_html/bootstrap/autoload.php on line 17
